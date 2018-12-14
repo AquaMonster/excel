@@ -1,0 +1,9 @@
+{
+    "sheet_title": "Bid Breakdown",
+    "job_types": ["Shell & Core",
+                  "Tenant Improvement",
+                  "Office",
+                  "Residential",
+                  "Parking Garage"
+              ]
+}
